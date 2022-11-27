@@ -1,0 +1,34 @@
+body{
+    background-color:rgb(228, 14, 14);
+}
+
+#border{
+    border:3px solid red;
+    border-radius:10px;
+    margin-left:35vw;
+    margin-top:50px; 
+
+}
+#p{
+    color:white;
+    margin-left:40vw;
+    font-size:30px;
+
+}
+#h3{
+    color:white;
+    margin-left:40vw;
+
+}
+#text{
+
+    color:white;
+    margin-left:50vw;  
+    margin-top:-75px; 
+}
+#Z{
+    color:white;
+    margin-left:50vw;
+    font-size:40px;
+
+}

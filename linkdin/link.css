@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(176, 240, 247);
+}
+
+p{
+    text-align:center;
+    margin-top:40vh;
+    font-size:100px;
+    color:rgb(13, 31, 190);
+
+}
+
+div{
+    font-size:100px;
+    border:1px solid black;
+    width:10vw;
+    text-align:center;
+    background-color:rgb(10, 47, 208);
+    color:white;
+    margin-top:-217px;
+    margin-left:59vw;
+}

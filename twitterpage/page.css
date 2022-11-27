@@ -1,0 +1,19 @@
+body{
+    background-color:skyblue;
+}
+#page{
+    border:1px solid black;
+    height:400px;
+    width:400px;
+    background-color:white;
+    margin-top:10vh;
+    border-radius:10px;
+}
+#logo{
+    height:10vh;
+    width:15vw;
+    border-radius:100px;
+    /* margin-top:40px;
+    margin-left:40px; */
+}
+    

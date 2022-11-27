@@ -1,0 +1,64 @@
+body{
+    background-color:grey;
+    height: 200vh;
+    width:300vw
+    
+}
+h1{
+    color:white;
+    margin-top:70px;
+    margin-left:100px;
+
+
+}
+
+#page{
+    border: 1px solid black;
+    height:400px;
+    width:400px;
+    margin-left:100px;
+    background-color:black;
+    border-radius:30px;
+}
+
+#book{
+    border:2px solid grey;
+    height:100px;
+    width:350px;
+    margin-left:25px;
+    margin-top:23px;
+    border-radius:20px;
+    background-color:grey;
+
+}
+h2{
+    color:white;
+    padding-left:40px;
+}
+
+p{
+    color:white;
+    padding-left:35px; /* use element selector p */
+}
+#join{
+        border:1px solid grey;
+        height:50px;
+        width:350px;
+        margin-left:25px;
+        margin-top:70px;
+        border-radius:20px;
+        background-color:grey;
+}
+
+#p{
+    color:white;
+    padding-left:140px;
+    
+}
+
+#img{
+        margin-top:-40px;
+        margin-left:50px;
+        height:200px;
+
+}
